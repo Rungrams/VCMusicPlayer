@@ -37,8 +37,8 @@
 <br/>
 
 ### Pre Requisites 
-- `API_ID` : Get from [my.telegram.org](https://my.telegram.org/app) or [@UsetTGzKBot](https://telegram.dog/UseTGzKBot)
-- `API_HASH` : Get from [my.telegram.org](https://my.telegram.org/app) or [@UseTGzKBot](https://telegram.dog/UseTGzKBot)
+- `API_ID` : Get from [my.telegram.org](https://my.telegram.org/app)
+- `API_HASH` : Get from [my.telegram.org](https://my.telegram.org/app)
 - `BOT_TOKEN` : Get From [@Botfather](https://telegram.dog/BotFather)
 - `SESSION_STRING` : Generate From here [![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-yellowgreen)](https://replit.com/@ZauteKm/GenerateStringSession)
 - `CHAT` : ID of Channel/Group where the bot plays Music.
@@ -90,7 +90,7 @@
 <br/>
 
 ```sh
-git clone https://github.com/LushaiMusic/VCMusicPlayer
+git clone https://github.com/rungrams/VCMusicPlayer
 cd VCMusicPlayer
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
@@ -122,7 +122,7 @@ python3 main.py
 ---
 
 #### Support
-Join Now Telegram [VC Music Live Sets](https://t.me/c/1481808444/131)
+Join Now Telegram [RUNGRAM](https://t.me/rungram)
 
 ## Requirements
 
@@ -153,11 +153,3 @@ GNU Affero General Public License for more details.
 You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>
 ```
-
----
-
-## Credits
-
-- [Zaute Km](https://github.com/ZauteKm) [Dev]
-- [Dash Eclipse](https://github.com/dashezup) [For tgvc_userbot]
-- [Marshal X](https://github.com/MarshalX) [For pytgcalls]
